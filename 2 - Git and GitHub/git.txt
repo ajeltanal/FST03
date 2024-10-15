@@ -29,3 +29,6 @@ git commit -m "This is a description"
 
 - Show the history
 git log
+
+- Shorter history
+git log --oneline
